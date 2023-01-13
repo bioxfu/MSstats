@@ -1,7 +1,7 @@
 # MSstats
 
 ## 1. Build Docker image
-cd docker
+cd docker  
 ./build.sh
 
 ## 2. Run
